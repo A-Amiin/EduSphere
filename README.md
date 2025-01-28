@@ -12,6 +12,7 @@ EduSphere is a web design project focused on creating a clean, visually appealin
 
 - HTML
 - CSS
+- Bootstrap
 
 ## Installation
 
